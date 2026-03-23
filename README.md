@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Felipe
 
-<!--
-**droacks/droacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 System Administrator focused on Windows, Linux, Networking and Monitoring  
+📍 Madrid, Spain  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a System Administrator with real experience working in IT environments.  
+I specialize in troubleshooting systems, managing infrastructure and improving performance in Windows and Linux environments.
+
+---
+
+## 🛠️ Skills
+- Windows & Linux Systems  
+- Networking (VLAN, VPN, Routing)  
+- Monitoring (Zabbix, Grafana)  
+- Active Directory  
+- IT Support & Troubleshooting  
+
+---
+
+## 📂 Projects
+
+### 🖥️ Homelab
+- Virtualized environment using Proxmox  
+- Network segmentation and testing  
+
+### 📊 Monitoring Setup
+- Zabbix and Grafana dashboards  
+- Alerts and metrics visualization  
+
+### 🌐 DNS Configuration
+- Windows Server and Linux DNS setup  
+
+### 🎮 Python Wordle Game
+- Built with Pygame  
+- Custom game logic  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/felipepcnet/
